@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bank_project_redux/static/css/main.93d35bc3.css",
+    "main.js": "/Bank_project_redux/static/js/main.4b7d9cc5.js",
+    "index.html": "/Bank_project_redux/index.html",
+    "main.93d35bc3.css.map": "/Bank_project_redux/static/css/main.93d35bc3.css.map",
+    "main.4b7d9cc5.js.map": "/Bank_project_redux/static/js/main.4b7d9cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d35bc3.css",
+    "static/js/main.4b7d9cc5.js"
+  ]
+}
